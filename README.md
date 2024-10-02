@@ -1,11 +1,11 @@
 # Coffee Comp Data
 
-Este é um aplicativo de comparação de cafés que permite explorar e visualizar diferentes características de cafés a partir de dados de avaliações. O aplicativo utiliza Streamlit para a interface e Plotly para gráficos interativos. [Demo](https://cofee-comp-data.onrender.com)
+Este é um aplicativo de comparação de cafés que permite explorar e visualizar diferentes características de cafés a partir de dados de avaliações. O aplicativo utiliza Streamlit para a interface e Plotly para gráficos interativos. [Demo](https://coffee-comp-data.onrender.com)
 
 ## Dados
 
-Os dados foram retirados de [Hanif Al Irsyad - Kaggle](https://www.kaggle.com/datasets/hanifalirsyad/coffee-scrap-coffeereview/versions/2?resource=download&select=coffee_fix.csv)
-A limpeza dos dados, foi baseado no trabalho de [Schmoyote - Kaggle](https://www.kaggle.com/code/schmoyote/coffee-tales-cleaning-dataframe-with-pandas/notebook)
+- Os dados foram retirados de [Hanif Al Irsyad - Kaggle](https://www.kaggle.com/datasets/hanifalirsyad/coffee-scrap-coffeereview/versions/2?resource=download&select=coffee_fix.csv)
+- A limpeza dos dados, foi baseado no trabalho de [Schmoyote - Kaggle](https://www.kaggle.com/code/schmoyote/coffee-tales-cleaning-dataframe-with-pandas/notebook)
 
 ## Funcionalidades
 
