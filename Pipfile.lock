@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cdf193ea9eae9c0f4d431b0272d872d540eb1708603d6fa5ed530b59c0544cc3"
+            "sha256": "6c516936e6f2baf4247b1d44a04c40de57a3706e9b2893b0a018e737d2a371e6"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -161,6 +161,13 @@
             "markers": "python_version >= '3.7'",
             "version": "==8.1.7"
         },
+        "fastjsonschema": {
+            "hashes": [
+                "sha256:3d48fc5300ee96f5d116f10fe6f28d938e6008f59a6a025c2649475b87f76a23",
+                "sha256:5875f0b0fa7a0043a91e93a9b8f793bcbbba9691e7fd83dca95c28ba26d21f0a"
+            ],
+            "version": "==2.20.0"
+        },
         "gitdb": {
             "hashes": [
                 "sha256:81a3407ddd2ee8df444cbacea00e2d038e40150acfa3001696fe0dcf1d3adfa4",
@@ -208,6 +215,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==2023.12.1"
+        },
+        "jupyter-core": {
+            "hashes": [
+                "sha256:4f7315d2f6b4bcf2e3e7cb6e46772eba760ae459cd1f59d29eb57b0a01bd7409",
+                "sha256:aa5f8d32bbf6b431ac830496da7392035d6f61b4f54872f15c4bd2a9c3f536d9"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==5.7.2"
         },
         "markdown-it-py": {
             "hashes": [
@@ -298,6 +313,15 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.9.0"
+        },
+        "nbformat": {
+            "hashes": [
+                "sha256:322168b14f937a5d11362988ecac2a4952d3d8e3a2cbeb2319584631226d5b3a",
+                "sha256:3b48d6c8fbca4b299bf3982ea7db1af21580e4fec269ad087b9e81588891200b"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==5.10.4"
         },
         "numpy": {
             "hashes": [
@@ -509,11 +533,20 @@
             "markers": "python_version >= '3.8'",
             "version": "==10.4.0"
         },
+        "platformdirs": {
+            "hashes": [
+                "sha256:357fb2acbc885b0419afd3ce3ed34564c13c9b95c89360cd9563f73aa5e2b907",
+                "sha256:73e575e1408ab8103900836b97580d5307456908a03e92031bab39e4554cc3fb"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==4.3.6"
+        },
         "plotly": {
             "hashes": [
                 "sha256:dbc8ac8339d248a4bcc36e08a5659bacfe1b079390b8953533f4eb22169b4bae",
                 "sha256:f67073a1e637eb0dc3e46324d9d51e2fe76e9727c892dde64ddf1e1b51f29089"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==5.24.1"
         },
@@ -880,6 +913,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==6.4.1"
+        },
+        "traitlets": {
+            "hashes": [
+                "sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7",
+                "sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==5.14.3"
         },
         "typing-extensions": {
             "hashes": [

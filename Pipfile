@@ -8,6 +8,8 @@ streamlit = "*"
 pandas = "*"
 numpy = "*"
 plotly-express = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 pylint = "*"
