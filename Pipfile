@@ -12,6 +12,8 @@ plotly-express = "*"
 [dev-packages]
 pylint = "*"
 pytest = "*"
+ipykernel = "*"
+fuzzywuzzy = "*"
 
 [requires]
 python_version = "3.12"
